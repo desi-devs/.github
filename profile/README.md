@@ -1,14 +1,15 @@
 # desi-devs
 
-A small team of engineers from UP building web apps, mobile apps, and digital tools
-for Indian businesses.
+Engineers from UP. We build web apps, mobile apps, and digital tools —
+mostly for Indian businesses that deserve better software than they're getting.
 
 ---
 
-## What's here
+## What's in here
 
-→ Private projects and client work  
-→ Public repos — utilities, boilerplates, and tools we wished existed  
+→ Client work (private, obviously)  
+→ Open repos — utilities, boilerplates, and stuff we built because it didn't exist  
+→ Ongoing experiments we haven't killed yet  
 
 ---
 
@@ -18,11 +19,16 @@ for Indian businesses.
 
 ---
 
-## Built in UP, shipping across India
+## How we work
 
-From Prayagraj, Uttar Pradesh.  
-Real software — not templates, not jugaad.
+Small team. No bloat. We scope it, build it, ship it.  
+If it needs a 40-slide deck to explain — we're probably not the right fit.
 
 ---
 
-🌐 [webstranet.com](https://webstranet.com) · 📬 hello@webstranet.com · Prayagraj, UP
+## Based in
+
+Prayagraj, Uttar Pradesh.  
+Real software. No templates. No jugaad.
+
+---
